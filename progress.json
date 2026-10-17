@@ -1,0 +1,44 @@
+{
+  "generated_at": "2026-10-18T07:05:47.701Z",
+  "items": {
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-10-17T14:53:10.042Z",
+      "last_pushed_at": "2026-10-17T14:53:10.042Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-10-17T15:39:26.608Z",
+      "last_pushed_at": "2026-10-17T15:39:26.608Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:29": {
+      "kind": "problem",
+      "id": "29",
+      "title": "Random Shuffle of Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/29",
+      "path": "problems/0029-random-shuffle-of-dataset",
+      "first_solved_at": "2026-10-17T15:45:33.278Z",
+      "last_pushed_at": "2026-10-17T15:45:33.278Z",
+      "language": "python",
+      "lines": 11
+    }
+  }
+}
