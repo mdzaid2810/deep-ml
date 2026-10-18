@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T07:05:47.701Z",
+  "generated_at": "2026-10-18T07:05:49.980Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -39,6 +39,32 @@
       "last_pushed_at": "2026-10-17T15:45:33.278Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:30": {
+      "kind": "problem",
+      "id": "30",
+      "title": "Batch Iterator for Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/30",
+      "path": "problems/0030-batch-iterator-for-dataset",
+      "first_solved_at": "2026-10-18T06:35:08.029Z",
+      "last_pushed_at": "2026-10-18T06:35:08.029Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:34": {
+      "kind": "problem",
+      "id": "34",
+      "title": "One-Hot Encoding of Nominal Values",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/34",
+      "path": "problems/0034-one-hot-encoding-of-nominal-values",
+      "first_solved_at": "2026-10-18T07:00:39.114Z",
+      "last_pushed_at": "2026-10-18T07:00:39.114Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
