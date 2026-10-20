@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**15** solved · 15 problems · 0 labs · 0 math
+**16** solved · 16 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-10-18 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-10-18 | [solution](problems/0036-calculate-accuracy-score) |
+| [Calculate SVM Margin Width](https://www.deep-ml.com/problems/282) | easy | 2026-10-20 | [solution](problems/0282-calculate-svm-margin-width) |
 | [Combined RM and LLM Quality Filter](https://www.deep-ml.com/problems/794) | easy | 2026-10-20 | [solution](problems/0794-combined-rm-and-llm-quality-filter) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-10-17 | [solution](problems/0016-feature-scaling-implementation) |
 | [Implement Early Stopping Based on Validation Loss](https://www.deep-ml.com/problems/135) | easy | 2026-10-19 | [solution](problems/0135-implement-early-stopping-based-on-validation-loss) |
