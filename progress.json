@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T06:59:58.283Z",
+  "generated_at": "2026-10-24T07:39:58.049Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -273,6 +273,19 @@
       "last_pushed_at": "2026-10-22T06:59:57.187Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:32": {
+      "kind": "problem",
+      "id": "32",
+      "title": "Generate Sorted Polynomial Features",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/32",
+      "path": "problems/0032-generate-sorted-polynomial-features",
+      "first_solved_at": "2026-10-24T07:39:50.304Z",
+      "last_pushed_at": "2026-10-24T07:39:50.304Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
